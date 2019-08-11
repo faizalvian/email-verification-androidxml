@@ -1,2 +1,2 @@
 # email-verification-androidxml
-Email Verification UI develop using Android Studio
+Create email code verification UI using Android Studio
